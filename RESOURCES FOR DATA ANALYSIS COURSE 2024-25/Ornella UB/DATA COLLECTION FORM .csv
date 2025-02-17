@@ -1,0 +1,521 @@
+Timestamp,Patient's code ,Hospital ,Age,Occupation ,Marital status ,Religion ,Tribe ,Level of education ,Level of monthly income ,Number of pregnancies,Number of children ,Inter pregnancy interval between each birth,Do you use any method of contraception ,"If yes,which method?",Which modern method?,Who makes decision concerning contraceptive use?,Is your husband/partner involved in decision making?,Why don't you use a modern contraceptive method?,Do you think modern contraceptive methods affects the ability to conceive in the the future?,Does the health care provider give enough information concerning the choice of modern contraceptive methods?,"Does the health care provider, imposes his/her choice concerning the adoption of a modern method of contraception?",Is the health facility distant from your home?,Which propositions would you give to improve the quality of services given by the health care providers?
+2024/03/23 2:43:42 pm CET,69,HNN,15,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Desire for many children ,I don't know ,No,No,No,Counseling 
+2024/03/23 11:28:22 am CET,38,HRN,32,Housewife,Single,Christian,Bamileke,Tertiary,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Traditional,,Wife,No,Desire for more children ,Yes,No,No,No,Increase awareness 
+2024/03/29 6:23:56 pm CET,490,HNN ,26,Nurse,Married,Christian,Toupouri,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Couple ,Yes,Desire for more children ,Yes,,,,
+2024/03/25 7:21:41 pm CET,234,HNN,43,Nurse,Divorced,Christian,Laka,Secondary,">100,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Desire for more children ,Yes,,,,Educational talks 
+2024/03/29 6:29:37 pm CET,495,HNN,40,Doctor ,Married,Christian,Bamileke,Tertiary,">100,000fcfa",<3,0 - 2,>5years,Yes,Traditional,,Wife,No,Desire for more children ,Yes,,,,
+2024/03/23 8:46:09 pm CET,108,HNN,34,Housewife,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,>5years,Yes,Traditional,,Wife,Yes,Desire for more children ,Yes,No,No,No,Talks
+2024/03/24 7:44:51 am CET,168,HRN,22,Housewife,Married,Christian,Laka,Primary,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Desire for more children ,No,,,,Counseling 
+2024/03/29 6:52:57 am CET,370,HNN,20,Trader,Married,Christian,Laka,Primary,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Desire for more children ,,,,,
+2024/03/29 4:00:25 pm CET,468,HNN ,20,Student,Married,Christian,Toupouri,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Couple ,,Desire for more children ,,,,,
+2024/03/24 11:56:23 am CET,181,HRN,29,Farmer,Married,Christian,Toupouri,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Desire for more children ,Yes,,,,Health campaigns 
+2024/03/24 12:09:43 pm CET,189,HRN,30,Trader,Married,Christian,Laka,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Desire for more children ,Yes,,,,Counseling 
+2024/03/25 7:10:54 pm CET,228,HNN,27,Housewife,Married,Muslim,Kotoko,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Desire for more children ,Yes,,,,Health campaigns 
+2024/03/29 11:39:19 am CET,440,HRN ,44,Housewife,Married,Muslim,Toupouri,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Desire for more children ,,,,,
+2024/03/29 11:57:22 am CET,446,HRN ,34,Farmer,Married,Christian,Baya,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Desire for more children ,Yes,,,,
+2024/03/29 7:07:33 pm CET,508,HRN,29,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Couple ,Yes,Desire for more children ,Yes,,,,
+2024/03/29 7:08:48 pm CET,510,HRN,26,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Desire for more children ,Yes,,,,
+2024/03/29 4:19:34 pm CET,475,HNN,21,Nurse,Married,Muslim,Baya,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Desire for more children ,,,,,
+2024/03/24 7:31:48 am CET,159,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Desire for more children ,Yes,,,,Counseling 
+2024/03/24 2:00:11 pm CET,194,HRN,15,Housewife,Married,Christian,Toupouri,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Desire for more children ,,,,,Talks
+2024/03/29 7:57:51 am CET,391,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,,Desire for more children ,,,,,
+2024/03/29 8:04:16 am CET,397,HNN,32,Teacher,Married,Christian,Toupouri,Tertiary,">100,000fcfa",<3,0 - 2,0 - 2years,No,,,Couple ,Yes,Desire for more children ,Yes,,,,
+2024/03/23 2:28:59 pm CET,63,HNN,36,Trader,Married,Muslim,Nanga,None,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Desire to have many children ,Yes,No,No,No,Make contraceptives readily available 
+2024/03/23 2:37:51 pm CET,67,HNN,17,Housewife,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Wife's mother ,No,Desire to have many children ,I don't know ,Yes,No,No,Talks 
+2024/03/23 3:33:49 pm CET,91,HNN,25,Student,Single,Muslim,Fulani,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Desire to have many children ,Yes,No,No,No,Campaigns 
+2024/03/29 6:42:10 pm CET,503,HRN ,35,Housewife,Married,Christian,Nanga ,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Traditional,,Couple ,Yes,Fear of side effects,Yes,Yes,No,No,Descente sur le site 
+2024/03/26 10:53:00 am CET,263,HRN,19,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Wife,No,Fear of side effects,Yes,No,No,No,Counseling 
+2024/03/24 6:59:25 am CET,140,HNN,33,Housewife,Married,Christian,Mundang,Primary,"<30,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Couple ,Yes,Fear of side effects,Yes,Yes,Yes,No,Give more details on methods and their side effects 
+2024/03/25 5:18:58 pm CET,217,HNN,32,Entrepreneur,Married,Christian,Mundang,Tertiary,"50,000-100,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Fear of side effects,Yes,No,No,No,Sensibiliser la population 
+2024/03/28 5:41:59 pm CET,129,HNN,35,Teacher,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Fear of side effects,Yes,,,,
+2024/03/29 6:37:44 pm CET,501,HRN,40,Trader,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Wife,Yes,Fear of side effects,Yes,,,,
+2024/03/23 9:58:00 am CET,14,HRN,32,Entrepreneur,Married,Christian,Mundang,Tertiary,"50,000-100,000fcfa",(3-5),0 - 2,0 - 2years,Yes,Traditional,,Couple ,Yes,Fear of side effects,Yes,No,No,No,Raise awareness 
+2024/03/23 9:12:23 am CET,1,HRN,26,Student,Single,Christian,Mundang,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,Yes,Fear of side effects,Yes,Yes,No,No,Explain in details the modern contraceptive methods and their side effects 
+2024/03/23 9:06:56 pm CET,113,HNN,27,Seamstress ,Married,Christian,Bassa,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Wife,No,Fear of side effects,Yes,No,No,No,Give details on methods 
+2024/03/23 10:02:46 pm CET,130,HNN,25,Student,Married,Christian,Mundang,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Wife,No,Fear of side effects,Yes,Yes,Yes,No,Include partners in decision making 
+2024/03/27 4:47:04 am CET,295,HRN,30,Trader,Divorced,Christian,Bamileke,Primary,"30,000- <50,000fcfa",<3,0 - 2,>5years,Yes,Traditional,,Wife,Yes,Fear of side effects,Yes,No,Yes,No,
+2024/03/23 11:19:10 am CET,33,HRN,31,Student,Single,Christian,Toupouri,Secondary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Traditional,,Wife,,Fear of side effects,Yes,Yes,No,Yes,Campaigns 
+2024/03/23 10:06:28 am CET,17,HRN,35,Entrepreneur,Married,Christian,Nanga,Primary,"50,000-100,000fcfa",<3,0 - 2,>5years,yes,Traditional,,Couple ,Yes,Fear of side effects,Yes,No,No,No,Counseling 
+2024/03/26 10:28:28 am CET,262,HRN,30,Housewife,Widow,Muslim,Fulani,None,"<30,000fcfa",(3-5),(3-5),3 - 5years,No,,,Wife,No,Fear of side effects,,Yes,No,No,Explain in details 
+2024/03/23 11:21:05 am CET,34,HRN,43,Nurse,Divorced,Christian,Laka,Secondary,">100,000fcfa",(3-5),(3-5),3 - 5years,No,,,Wife,No,Fear of side effects,Yes,Yes,No,No,Campaigns 
+2024/03/23 8:48:07 pm CET,109,HNN,36,Housewife,Married,Muslim,Fulani,Primary,"<30,000fcfa",(3-5),0 - 2,3 - 5years,No,,,Couple ,Yes,Fear of side effects,Yes,No,No,No,Health campaigns 
+2024/03/23 3:45:24 pm CET,98,HNN,24,Student,Married,Christian,Mundang,Secondary,None,<3,0 - 2,3 - 5years,No,,,Wife,Yes,Fear of side effects,Yes,No,No,No,Health campaigns 
+2024/03/23 9:10:57 pm CET,115,HNN,37,Nurse,Married,Muslim,Kotoko,Secondary,"<30,000fcfa",<3,0 - 2,3 - 5years,No,,,Wife,Yes,Fear of side effects,Yes,No,No,No,Counseling 
+2024/03/26 10:06:57 am CET,254,HNN,29,Nurse,Married,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,3 - 5years,No,,,Wife,No,Fear of side effects,Yes,No,No,Yes,Detailed counseling 
+2024/03/24 11:59:57 am CET,183,HRN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Couple ,Yes,Fear of side effects,Yes,,,,Counseling 
+2024/03/25 7:09:30 pm CET,227,HNN,18,Housewife,Married,Muslim,Mundang,None,"<30,000fcfa",(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Fear of side effects,Yes,,,,Counseling 
+2024/03/25 7:14:08 pm CET,230,HNN,21,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Fear of side effects,,,,,Detailed information on methods and their side effects 
+2024/03/25 7:39:06 pm CET,241,HRN,35,Trader,Married,Muslim,Bamoun,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,No,,,,No,Fear of side effects,,,,,Stop rumors by going to households 
+2024/03/23 11:33:22 am CET,41,HRN,35,Trader,Married,Muslim,Bamoun,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,No,,,Wife,No,Fear of side effects,Yes,No,No,No,Campaigns 
+2024/03/23 9:49:52 pm CET,127,HNN,27,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Couple ,Yes,Fear of side effects,Yes,Yes,No,No,Health campaigns 
+2024/03/29 8:14:46 am CET,405,HNN,21,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Fear of side effects,,,,,
+2024/03/29 9:02:56 am CET,414,HNN ,27,Trader,Divorced,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",>5,(3-5),0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/23 10:26:16 am CET,24,HRN,49,Housewife,Married,Christian,Kotoko,Secondary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Couple ,,Fear of side effects,Yes,No,Yes,No,Explain the side effects of each modern contraceptive 
+2024/03/23 3:47:10 pm CET,99,HNN,35,Student,Married,Muslim,Fulani,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Husband,Yes,Fear of side effects,Yes,No,No,No,Detailed counseling 
+2024/03/24 6:56:56 am CET,139,HNN,30,Teacher,Married,Muslim,Bamileke,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Fear of side effects,Yes,No,No,No,Health campaigns 
+2024/03/29 9:10:14 am CET,418,HRN ,40,Trader,Widow,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,,Fear of side effects,,,,,
+2024/03/29 9:31:35 am CET,420,HRN ,38,Trader,Married,Christian,Baya,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/29 11:31:05 am CET,435,HNN,44,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/29 11:48:11 am CET,441,HRN,39,Teacher,Married,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Fear of side effects,,,,,
+2024/03/29 11:50:15 am CET,442,HRN ,39,Farmer,Divorced,Christian,Ewondo ,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/29 11:55:53 am CET,445,HRN ,48,Teacher,Married,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Couple ,Yes,Fear of side effects,Yes,,,,
+2024/03/29 11:58:50 am CET,447,HRN ,43,Entrepreneur,Widow,Christian,Bassa,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,Yes,,,,
+2024/03/29 3:20:17 pm CET,451,HNN,34,Farmer,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/29 3:24:03 pm CET,455,HNN,41,Secretary ,Divorced,Christian,Bassa,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Fear of side effects,,,,,
+2024/03/23 9:56:17 am CET,13,HRN,35,Nurse,Married,Christian,Mundang,Tertiary,">100,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,Yes,Fear of side effects,Yes,No,No,No,Health camo 
+2024/03/24 7:11:32 am CET,148,HNN,24,Housewife,Married,Muslim,Fulani,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Fear of side effects,,No,No,No,Explain in details the methods and their side effects 
+2024/03/26 11:26:34 am CET,271,HNN,25,Housewife,Single,Christian,Bamileke,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Fear of side effects,,Yes,No,No,They should be professional 
+2024/03/29 8:14:05 am CET,404,HNN,21,Housewife,Married,Muslim,Fulani,Secondary,None,>5,0 - 2,0 - 2years,No,,,Husband,,Fear of side effects,,,,,
+2024/03/26 11:30:05 am CET,273,HNN,24,Student,Single,Christian,Baya,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Fear of side effects,Yes,Yes,No,No,Counseling 
+2024/03/26 11:32:48 am CET,275,HRN,25,Student,Married,Christian,Toupouri,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Couple ,No,Fear of side effects,Yes,Yes,No,No,Counseling 
+2024/03/29 6:36:53 pm CET,500,HRN ,25,Student,Single,Muslim,Fulani,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Fear of side effects,Yes,,,,
+2024/03/23 9:09:27 pm CET,114,HNN,24,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Wife,No,Infertility ,Yes,No,Yes,No,Counseling 
+2024/03/24 12:01:39 pm CET,184,HRN,24,Teacher,Single,Christian,Bassa,Secondary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Wife,No,Infertility ,Yes,,,,Counseling 
+2024/03/24 6:46:22 am CET,132,HNN,21,Entrepreneur,Single,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Couple ,Yes,Infertility ,Yes,Yes,No,No,Counseling 
+2024/03/29 12:02:19 pm CET,450,HRN ,23,Housewife,Single,Christian,Mundang,Secondary,None,<3,0 - 2,>5years,No,,,Wife,No,Infertility ,Yes,,,,
+2024/03/28 4:10:32 pm CET,307,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,No one ,,No idea,,,,,
+2024/03/27 4:31:29 am CET,283,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,,,No idea about it ,,,,,Counseling 
+2024/03/29 7:37:07 pm CET,516,HRN,20,Housewife,Single,Christian,Laka,None,None,>5,>5,0 - 2years,No,,,No one ,,Not aware,,,,,
+2024/03/27 4:33:56 am CET,284,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,,,Not aware ,,,,,
+2024/03/27 4:35:04 am CET,285,HNN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,,,Not aware ,,,,,
+2024/03/27 4:36:19 am CET,286,HRN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/27 4:37:24 am CET,287,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/27 4:38:29 am CET,288,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/27 4:39:35 am CET,289,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/27 4:42:22 am CET,291,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,,,Not aware ,,,,,
+2024/03/29 3:59:15 pm CET,467,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:14:32 pm CET,472,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one,,Not aware ,,,,,
+2024/03/29 4:15:24 pm CET,473,HNN ,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:52:19 pm CET,484,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 5:58:11 pm CET,486,HNN ,19,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 3:56:35 pm CET,465,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:32:59 pm CET,479,HNN ,19,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 7:30:43 pm CET,514,HRN,23,Housewife,Married,Christian,Laka,Primary,None,>5,>5,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 7:34:03 pm CET,515,HRN,24,Housewife,Single,Christian,Laka,Primary,None,>5,>5,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 7:39:01 pm CET,517,HRN,21,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 3:47:59 pm CET,462,HNN,16,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 3:49:31 pm CET,463,HNN,15,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 3:52:57 pm CET,464,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:47:37 pm CET,483,HNN,15,Housewife,Married,Muslim,,Primary,None,(3-5),0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:13:53 pm CET,471,HNN ,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 4:54:55 pm CET,485,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,No one,,Not aware ,,,,,
+2024/03/29 6:34:57 pm CET,498,HNN,15,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 6:35:43 pm CET,499,HNN ,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,No one ,,Not aware ,,,,,
+2024/03/29 9:41:25 am CET,423,HRN ,15,Housewife,Married,Muslim,Fulani,Primary,None,>5,0 - 2,0 - 2years,No,,,No one ,No,Not aware ,,,,,
+2024/03/25 5:27:51 pm CET,219,HNN,33,Trader,Married,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",>5,(3-5),3 - 5years,Yes,Traditional,,Wife,No,Not interested ,Yes,No,No,No,Health campaigns 
+2024/03/24 7:34:52 am CET,161,HRN,24,Trader,Single,Christian,Bassa,Primary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Wife,No,Not interested ,Yes,,,,Counseling 
+2024/03/25 5:23:13 pm CET,216,HNN,26,Student,Married,Muslim,Fulani,Tertiary,"50,000-100,000fcfa",<3,0 - 2,3 - 5years,No,,,Wife,Yes,Not interested ,No,No,No,No,Talks
+2024/03/25 7:36:35 pm CET,240,HRN ,24,Student,Married,Christian,Bamileke,Secondary,None,<3,0 - 2,3 - 5years,No,,,Wife,No,Not interested ,No,No,No,No,Show more interest in patients 
+2024/03/24 7:46:19 am CET,169,HRN,17,Student,Single,Christian,Laka,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Not interested ,No,,,,Counseling 
+2024/03/24 7:47:55 am CET,170,HRN,18,Housewife,Single,Christian,Laka,Secondary,None,(3-5),(3-5),0 - 2years,No,,,,,Not interested ,,,,,Counseling 
+2024/03/24 2:01:28 pm CET,195,HRN,16,Student,Married,Christian,Baya,None,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Not interested ,,,,,Talks
+2024/03/23 3:02:43 pm CET,78,HNN,20,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Not interested ,Maybe ,No,No,No,Talks 
+2024/03/23 3:07:53 pm CET,79,HNN,20,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Wife,Yes,Not interested ,Maybe ,No,No,Yes,Campaigns 
+2024/03/23 3:09:32 pm CET,80,HNN,21,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Not interested ,Yes,No,No,No,Include partners and give details on methods of modern contraception 
+2024/03/28 4:09:33 pm CET,306,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,No one ,,Not interested ,,,,,
+2024/03/25 7:08:00 pm CET,226,HNN,22,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Not interested ,Yes,,,,Counseling 
+2024/03/29 7:05:43 pm CET,507,HRN,27,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Not interested ,,,,,
+2024/03/24 6:55:37 am CET,138,HNN,19,Seamstress ,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Not interested ,Yes,No,No,No,More counseling 
+2024/03/24 7:23:36 am CET,152,HRN,15,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Not interested ,I don't know ,,,,Talk to husbands 
+2024/03/27 4:54:40 am CET,300,HNN,20,Student,Married,Christian,Toupouri,Secondary,None,(3-5),(3-5),0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,No,,,,
+2024/03/23 11:07:52 am CET,28,HRN,28,Housewife,Married,Muslim,Kotoko,None,"<30,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,Yes,No,Yes,No,Counseling 
+2024/03/23 9:34:59 am CET,4,HRN,42,Trader,Married,Christian,Baya,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,Yes,No,Yes,No,Explain in details the types of modern contraceptives 
+2024/03/24 7:03:31 am CET,143,HNN,29,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,No,Partner's/husband's refusal,,,,,Involve husbands in the health campaigns 
+2024/03/25 7:43:41 pm CET,243,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,No,Partner's/husband's refusal,,,,,Explain to husbands the pros of contraceptives 
+2024/03/27 4:53:39 am CET,299,HNN,17,Student,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,No,,,,
+2024/03/24 12:06:06 pm CET,187,HRN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/25 7:00:10 pm CET,221,HNN,27,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/23 10:10:40 am CET,19,HRN,33,Trader,Married,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",>5,(3-5),3 - 5years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Give details on side effects of methods 
+2024/03/23 3:20:45 pm CET,84,HNN,25,Housewife,Single,Christian,Laka,Secondary,None,<3,0 - 2,3 - 5years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,Yes,No,No,Detailed counseling 
+2024/03/24 6:49:50 am CET,134,HNN,26,Housewife,Widow,Christian,Laka,Primary,None,<3,0 - 2,3 - 5years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/24 7:36:07 am CET,162,HRN,19,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/24 11:44:00 am CET,173,HRN,15,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,I don't know ,,,,Counseling 
+2024/03/24 11:45:09 am CET,174,HRN,15,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,I don't know ,,,,Counseling 
+2024/03/24 11:47:25 am CET,176,HRN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/24 11:48:55 am CET,177,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe ,,,,Counseling 
+2024/03/24 11:50:29 am CET,178,HRN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/24 11:54:08 am CET,180,HRN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/24 12:14:42 pm CET,190,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/24 1:55:12 pm CET,192,HRN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/24 3:52:07 pm CET,196,HNN,15,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,I don't know ,,,,Talk
+2024/03/25 7:03:06 pm CET,223,HNN,21,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/26 11:48:22 am CET,72,HNN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/27 4:40:47 am CET,290,HRN,16,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,,,Partner's/husband's refusal,,,,,
+2024/03/27 4:43:33 am CET,292,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/27 4:44:26 am CET,293,HRN,18,Housewife,Married,Christian,Toupouri,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/28 4:30:55 pm CET,319,HRN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:49:03 pm CET,327,HRN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:40:17 am CET,359,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:42:09 am CET,361,HNN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:42:48 am CET,362,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:45:00 am CET,364,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:51:47 am CET,369,HNN,19,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:56:02 am CET,373,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:59:11 am CET,374,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:59:48 am CET,375,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:00:39 am CET,376,HNN,18,Housewife,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:01:28 am CET,377,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:02:08 am CET,378,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:02:50 am CET,379,HNN,19,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:03:31 am CET,380,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:29:59 am CET,385,HNN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:54:28 am CET,386,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:56:27 am CET,389,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 8:06:32 am CET,400,HNN,22,Housewife,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 8:13:09 am CET,403,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/23 10:23:48 am CET,23,HRN,21,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe,No,No,No,Health campaigns 
+2024/03/23 11:14:56 am CET,31,HRN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe,Yes,No,No,Give details of methods and uses
+2024/03/23 11:47:25 am CET,48,HRN,28,Housewife,Married,Muslim,Laka,None,None,(3-5),(3-5),0 - 2years,No,,,Couple ,Yes,Partner's/husband's refusal,Yes,No,No,No,Health talks
+2024/03/23 2:47:07 pm CET,71,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe ,No,No,No,Include partners in the health campaigns 
+2024/03/23 2:54:38 pm CET,73,HNN,26,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,I don't know ,No,No,No,Community talks 
+2024/03/23 3:01:05 pm CET,77,HNN,22,Housewife,Married,Muslim,Fulani,None,,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe ,No,No,Yes,Counseling 
+2024/03/23 3:17:15 pm CET,82,HNN,32,Housewife,Married,Christian,Toupouri,Secondary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,No,,,Couple ,Yes,Partner's/husband's refusal,No,No,No,No,More counseling 
+2024/03/24 6:54:14 am CET,137,HNN,20,Housewife,Married,Christian,Laka,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Include partners in decision making 
+2024/03/24 7:27:30 am CET,155,HRN,23,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/24 7:28:27 am CET,156,HRN,19,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/24 7:30:43 am CET,158,HRN,20,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Counseling 
+2024/03/29 9:02:03 am CET,413,HNN,18,Student,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 9:51:47 am CET,426,HRN,20,Nurse,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 10:03:12 am CET,427,HRN,21,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 3:46:07 pm CET,461,HNN,22,Student,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 3:58:23 pm CET,466,HNN,19,Student,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/24 7:29:40 am CET,157,HRN,19,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/24 1:57:22 pm CET,193,HRN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Talks
+2024/03/24 3:59:18 pm CET,200,HNN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Counseling 
+2024/03/28 3:55:00 pm CET,301,HRN,15,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/28 4:01:16 pm CET,302,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:03:05 pm CET,304,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:08:30 pm CET,305,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/28 4:18:04 pm CET,309,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:19:32 pm CET,310,HRN,15,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:20:58 pm CET,311,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:24:25 pm CET,313,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:25:08 pm CET,314,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:49:45 pm CET,328,HRN,15,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:50:24 pm CET,329,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:55:11 pm CET,334,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:56:06 pm CET,335,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:57:32 pm CET,336,HRN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 5:09:43 pm CET,348,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 5:10:26 pm CET,349,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 5:25:44 pm CET,350,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 6:43:30 pm CET,355,HNN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 6:44:33 pm CET,356,HNN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:43:36 am CET,363,HNN,20,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:46:35 am CET,366,HNN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:47:20 am CET,367,HNN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 8:22:46 am CET,411,HNN,22,Student,Married,Muslim,Fulani,Secondary,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 9:49:43 am CET,425,HRN ,18,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 12:01:15 pm CET,449,HRN ,22,Student,Married,Muslim,Fulani,Secondary,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 6:27:38 pm CET,493,HNN ,26,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/23 10:20:25 am CET,21,HRN,27,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe,No,Yes,No,Counseling 
+2024/03/23 10:22:09 am CET,22,HRN,23,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe,No,Yes,No,Counseling 
+2024/03/23 3:50:43 pm CET,100,HNN,27,Nurse,Single,Christian,Toupouri,Secondary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Partner's/husband's refusal,Yes,No,Yes,No,Detailed counseling 
+2024/03/23 8:34:14 pm CET,104,HNN,27,Housewife,Single,Christian,Baya,Secondary,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Talks
+2024/03/24 6:52:25 am CET,136,HNN,29,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Involve husbands in the health talks 
+2024/03/24 11:52:53 am CET,179,HRN,18,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Counseling 
+2024/03/25 7:01:16 pm CET,222,HNN,23,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,Counseling 
+2024/03/26 10:18:18 am CET,257,HNN,38,Farmer,Married,Muslim,Laka,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,Yes,No,No,Give details 
+2024/03/29 8:05:49 am CET,399,HNN,30,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 8:12:36 am CET,402,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 11:32:38 am CET,437,HRN,47,Teacher,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 3:20:56 pm CET,452,HNN,36,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 3:26:45 pm CET,458,HNN,45,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/29 3:29:25 pm CET,460,HNN,46,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:43:25 pm CET,519,HRN,26,Trader,Married,Christian,Toupouri,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:44:47 pm CET,520,HRN,27,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/24 11:43:03 am CET,172,HRN,15,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Counseling 
+2024/03/24 11:46:09 am CET,175,HRN,16,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,Maybe ,,,,Counseling 
+2024/03/24 3:57:53 pm CET,199,HNN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,I don't know ,,,,Involve husbands in decision making 
+2024/03/29 6:55:11 am CET,372,HNN,15,Student,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:57:11 am CET,390,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/24 7:05:16 am CET,144,HNN,32,Housewife,Married,Muslim,Laka,None,"50,000-100,000fcfa",(3-5),0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Involve traditional rulers in talks 
+2024/03/23 11:09:17 am CET,29,HRN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Counseling 
+2024/03/23 11:24:25 am CET,36,HRN,26,Teacher,Single,Christian,Bamileke,Tertiary,">100,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Health campaigns on contraceptive and side effects 
+2024/03/23 11:37:51 am CET,43,HRN,18,Housewife,Married,Muslim,Fulani,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe,No,No,,"Involve husbands and explain to them the advantages of contraceptives for the woman,child and family "
+2024/03/23 2:20:05 pm CET,59,HNN,40,Trader,Married,Christian,Bassa,None,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,No,No,No,"Include partners, traditional rulers in talks and health campaigns "
+2024/03/23 2:27:01 pm CET,62,HRN,36,Housewife,Married,Muslim,Fulani,None,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,No,No,No,"Include partner and counsel on different methods, side effects "
+2024/03/23 2:45:03 pm CET,70,HNN,17,Student,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Maybe ,Yes,No,No,Talks and campaigns 
+2024/03/23 3:41:37 pm CET,96,HNN,32,Student,Single,Christian,Laka,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Counseling 
+2024/03/23 8:57:20 pm CET,111,HRN,20,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,No,Counseling 
+2024/03/23 9:04:54 pm CET,112,HNN,40,Housewife,Married,Muslim,Laka,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,Yes,Partner's/husband's refusal,Yes,No,No,No,Husband's should participate in decision making 
+2024/03/23 9:16:18 pm CET,116,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,I don't know ,No,No,No,Counseling 
+2024/03/24 7:02:05 am CET,142,HNN,25,Housewife,Married,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,No,No,Yes,Health campaigns 
+2024/03/24 7:12:34 am CET,149,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Involve husbands in the health campaigns 
+2024/03/24 7:13:25 am CET,150,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Campaigns
+2024/03/24 7:22:01 am CET,151,HRN,16,Student,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Involve husbands in the health campaigns 
+2024/03/24 7:25:01 am CET,153,HRN,16,Housewife,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,No,,,,Talk to husbands 
+2024/03/24 11:42:03 am CET,171,HRN,15,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,I don't know ,,,,Counseling 
+2024/03/24 1:53:15 pm CET,191,HRN,15,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Counseling 
+2024/03/24 3:54:02 pm CET,197,HNN,15,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Health campaigns 
+2024/03/25 4:42:19 pm CET,204,HRN,42,Trader,Married,Christian,Baya,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/25 7:06:31 pm CET,225,HNN,26,Student,Married,Christian,Laka,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,Yes,,,,Counseling 
+2024/03/25 7:12:14 pm CET,229,HRN,27,Nurse,Single,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,No,Partner's/husband's refusal,Yes,,,,Talks
+2024/03/25 7:26:17 pm CET,236,HRN,26,Teacher,Single,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,Health talks in houses
+2024/03/27 4:45:24 am CET,294,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Partner's/husband's refusal,,,,,
+2024/03/29 7:06:33 am CET,383,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:07:36 am CET,384,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 7:58:40 am CET,392,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/29 4:20:36 pm CET,476,HNN,22,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 4:44:05 pm CET,321,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/28 5:09:04 pm CET,347,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,0 - 2,0 - 2years,No,,,Husband,,Partner's/husband's refusal,,,,,
+2024/03/26 11:34:59 am CET,276,HRN,23,Seamstress ,Single,Muslim,Haoussa,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Couple ,Yes,Partner's/husband's refusal,No,Yes,No,No,Detailed counseling and involve husbands 
+2024/03/23 2:36:02 pm CET,66,HNN,16,Housewife,Married,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Mother in law ,No,Refusal of mother in law ,I don't know ,Yes,No,No,Counseling 
+2024/03/23 10:29:12 am CET,25,HRN,26,Student,Married,Christian,Laka,Secondary,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Traditional,,Couple ,Yes,Religion and traditions,Yes,Yes,No,No,Health campaigns 
+2024/03/25 7:31:33 pm CET,238,HNN,32,Housewife,Single,Christian,Bamileke,Tertiary,None,<3,0 - 2,3 - 5years,Yes,Traditional,,Wife,No,Religion and traditions,Yes,,,,Raise awareness 
+2024/03/25 7:28:35 pm CET,237,HNN,37,Teacher,Married,Christian,Mundang,Tertiary,">100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Traditional,,Wife,Yes,Religion and traditions,Yes,,,,Details on side effects 
+2024/03/24 12:04:31 pm CET,186,HRN,19,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,Yes,Traditional,,Husband,Yes,Religion and traditions,Yes,,,,Counseling 
+2024/03/24 12:02:55 pm CET,185,HRN,20,Housewife,Married,Muslim,Toupouri,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Wife,No,Religion and traditions,Yes,,,,Counseling 
+2024/03/25 4:36:17 pm CET,201,HRN,26,Student,Married,Christian,Mundang,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,Yes,Religion and traditions,Yes,Yes,No,No,Talks and campaigns 
+2024/03/29 6:43:31 pm CET,504,HRN,26,Student,Married,Christian,Mundang,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Husband,Yes,Religion and traditions,,Yes,No,No,
+2024/03/23 8:42:52 pm CET,107,HNN,24,Housewife,Married,Muslim,Fulani,Primary,"50,000-100,000fcfa",<3,0 - 2,3 - 5years,No,,,Couple ,Yes,Religion and traditions,Yes,No,No,No,Health campaigns 
+2024/03/25 7:17:57 pm CET,232,HRN,24,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,Yes,,,,Counseling 
+2024/03/25 8:17:49 pm CET,248,HRN,28,Housewife,Married,Christian,Mundang,None,"<30,000fcfa",(3-5),(3-5),0 - 2years,No,,,Couple ,Yes,Religion and traditions,Yes,,,,Educate women on methods and their side effects 
+2024/03/28 4:26:06 pm CET,315,HRN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:31:50 pm CET,320,HRN,16,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:48:17 pm CET,326,HRN ,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:53:52 pm CET,333,HRN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 6:45:44 pm CET,357,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Couple ,,Religion and traditions,,,,,
+2024/03/28 6:47:13 pm CET,358,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,,,,,
+2024/03/29 6:41:01 am CET,360,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 6:48:24 am CET,368,HNN,19,Trader,Married,Christian,Toupouri,Primary,None,(3-5),(3-5),0 - 2years,No,,,Wife,,Religion and traditions,,,,,
+2024/03/29 7:04:02 am CET,381,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:01:32 am CET,394,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/23 11:04:50 am CET,26,HRN,20,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,I don't know ,No,No,Yes,Counseling 
+2024/03/23 11:06:14 am CET,27,HRN,18,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,I don't know,No,No,No,Health campaigns 
+2024/03/23 11:12:54 am CET,30,HRN,21,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,Yes,Yes,No,No,Counseling 
+2024/03/23 11:16:48 am CET,32,HRN,24,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,I don't know,Yes,No,No,Health campaigns 
+2024/03/23 2:59:27 pm CET,76,HNN,19,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,I don't know ,No,No,No,Talks and campaigns 
+2024/03/24 7:25:51 am CET,154,HRN,20,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,Yes,Religion and traditions,No,,,,Campaigns 
+2024/03/29 8:22:02 am CET,410,HNN,17,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 9:39:37 am CET,422,HRN ,18,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 4:01:30 pm CET,469,HNN ,22,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/23 9:40:32 pm CET,122,HNN,48,Housewife,Widow,Muslim,Fulani,None,"<30,000fcfa",>5,(3-5),0 - 2years,No,,,Wife,No,Religion and traditions,Yes,Yes,No,No,Involve husbands 
+2024/03/24 7:33:23 am CET,160,HRN,25,Housewife,Married,Muslim,Toupouri,Primary,None,>5,(3-5),0 - 2years,No,,,Wife,No,Religion and traditions,Yes,,,,Counseling 
+2024/03/28 4:02:20 pm CET,303,HRN ,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:22:04 pm CET,312,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:27:47 pm CET,316,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:28:45 pm CET,317,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:30:11 pm CET,318,HRN,15,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:45:19 pm CET,322,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:46:04 pm CET,323,HRN,15,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:47:00 pm CET,324,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:47:38 pm CET,325,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:50:58 pm CET,330,HRN ,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:51:58 pm CET,331,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:53:01 pm CET,332,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 4:58:42 pm CET,337,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:00:44 pm CET,338,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:01:32 pm CET,339,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:02:13 pm CET,340,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:03:12 pm CET,341,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:04:03 pm CET,342,HRN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:05:30 pm CET,343,HRN ,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:06:13 pm CET,344,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:06:56 pm CET,345,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 5:07:58 pm CET,346,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 6:40:20 pm CET,351,HNN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 6:41:18 pm CET,352,HNN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 6:41:57 pm CET,353,HNN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/28 6:42:49 pm CET,354,HNN,16,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 6:45:44 am CET,365,HNN,18,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:11:56 am CET,401,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:15:35 am CET,406,HNN,20,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:21:13 am CET,409,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 10:04:27 am CET,428,HRN,18,Student,Married,Christian,Mundang,Secondary,None,>5,(3-5),0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/23 2:56:18 pm CET,74,HNN,23,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,Yes,Religion and traditions,I don't know ,Yes,No,No,Campaigns 
+2024/03/24 7:10:21 am CET,147,HRN,24,Student,Single,Christian,Baya,Tertiary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,Yes,Yes,Yes,No,"Explain in details methods,pros,cons, allow people to freely choose without convincing them "
+2024/03/25 5:16:15 pm CET,213,HNN,35,Nurse,Married,Christian,Mundang,Tertiary,">100,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Religion and traditions,Yes,Yes,No,No,Health campaigns 
+2024/03/25 7:05:02 pm CET,224,HNN,35,Farmer,Married,Muslim,Kotoko,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Couple ,Yes,Religion and traditions,Yes,,,,Counseling 
+2024/03/29 8:05:08 am CET,398,HNN,35,Entrepreneur,Married,Christian,Bamileke,Tertiary,">100,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 9:07:24 am CET,416,HNN,37,Farmer,Married,Christian,Laka,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 9:08:41 am CET,417,HRN,45,Trader,Divorced,Christian,Laka,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 9:32:53 am CET,421,HRN,40,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,Yes,Religion and traditions,,,,,
+2024/03/29 11:11:37 am CET,429,HNN,49,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 11:26:01 am CET,433,HNN,47,Farmer,Married,Christian,Mundang,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 11:31:47 am CET,436,HNN,31,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 11:38:20 am CET,439,HRN,31,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Couple ,,Religion and traditions,,,,,
+2024/03/29 11:51:18 am CET,443,HRN ,41,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Couple ,Yes,Religion and traditions,,,,,
+2024/03/29 3:21:44 pm CET,453,HNN,40,Teacher,Divorced,Christian,Mundang,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Religion and traditions,,,,,
+2024/03/29 6:24:50 pm CET,491,HNN ,26,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 7:15:45 pm CET,511,HRN,27,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Couple ,Yes,Religion and traditions,,,,,
+2024/03/29 7:25:41 pm CET,512,HRN,40,Housewife,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Husband,,Religion and traditions,Yes,,,,
+2024/03/24 3:55:58 pm CET,198,HNN,15,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,Health campaigns 
+2024/03/29 7:05:02 am CET,382,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/23 2:15:07 pm CET,57,HNN,20,Student,Married,Muslim,Fulani,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Wife,No,Religion and traditions,,No,No,No,Counseling 
+2024/03/23 2:57:52 pm CET,75,HNN,22,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,No,,,Couple ,Yes,Religion and traditions,Maybe ,No,No,No,Health talks 
+2024/03/29 9:01:32 am CET,412,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 9:42:10 am CET,424,HRN,17,Student,Married,Muslim,Baya,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Wife,,Religion and traditions,,,,,
+2024/03/29 4:16:32 pm CET,474,HNN,19,Housewife,Married,Christian,Toupouri,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 6:28:31 pm CET,494,HNN,17,Housewife,Married,Muslim,Fulani,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/23 2:39:13 pm CET,68,HNN,20,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Wife,Yes,Religion and traditions,Yes,No,No,No,Give details on methods 
+2024/03/23 3:19:16 pm CET,83,HRN,30,Student,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Wife,Yes,Religion and traditions,Yes,Yes,No,No,Detailed counseling 
+2024/03/24 7:41:58 am CET,166,HRN,16,Housewife,Married,Muslim,Fulani,Primary,None,<3,0 - 2,0 - 2years,No,,,Husband,Yes,Religion and traditions,Maybe ,,,,Counseling 
+2024/03/26 11:43:28 am CET,282,HNN,18,Housewife,Single,Christian,Laka,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Religion and traditions,Yes,No,No,Yes,Health campaign 
+2024/03/29 7:55:00 am CET,387,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 7:55:39 am CET,388,HNN,16,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 7:59:42 am CET,393,HNN,16,Student,Single,Christian,Toupouri,Secondary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 9:03:48 am CET,415,HNN ,15,Housewife,Married,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:16:17 am CET,407,HNN,22,Housewife,Married,Christian,Toupouri,Primary,None,>5,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/29 8:17:17 am CET,408,HNN,17,Housewife,Married,Muslim,Fulani,Primary,None,>5,0 - 2,0 - 2years,No,,,Husband,,Religion and traditions,,,,,
+2024/03/23 2:10:47 pm CET,55,HNN,24,Student,Single,Christian,Toupouri,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Religion and traditions,Yes,No,No,No,Talks and campaigns 
+2024/03/27 4:48:55 am CET,296,HRN,29,Farmer,Married,Christian,Laka,Primary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Traditional,,No one ,,Rumors ,Yes,,,,
+2024/03/28 5:43:09 pm CET,214,HNN,37,Trader,Married,Christian,Toupouri,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Rumors ,Yes,,,,
+2024/03/29 4:38:51 pm CET,481,HNN,47,Farmer,Divorced,Christian,Ewondo ,Secondary,None,>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Rumors ,No,,,,
+2024/03/29 4:45:53 pm CET,482,HNN,40,Housewife,Married,Muslim,Fulani,Primary,None,>5,>5,0 - 2years,Yes,Traditional,,Wife,No,Rumors ,,,,,
+2024/03/26 10:56:31 am CET,265,HRN,20,Housewife,Married,Muslim,Fulani,Secondary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Traditional,,Wife,No,Rumors ,No,No,No,No,Talks
+2024/03/29 4:02:54 pm CET,470,HNN ,20,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Rumors ,,,,,
+2024/03/29 5:59:13 pm CET,487,HNN ,19,Housewife,Married,Muslim,Fulani,Primary,None,(3-5),(3-5),0 - 2years,No,,,No one ,,Rumors ,Yes,,,,
+2024/03/29 12:00:15 pm CET,448,HRN ,23,Student,Married,Christian,Mundang,Secondary,None,>5,(3-5),0 - 2years,No,,,Couple ,Yes,Rumors ,Yes,,,,
+2024/03/29 4:29:00 pm CET,477,HNN,18,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Rumors ,,,,,
+2024/03/29 4:33:53 pm CET,480,HNN,20,Housewife,Married,Muslim,Fulani,Primary,None,>5,(3-5),0 - 2years,No,,,Husband,,Rumors ,Yes,,,,
+2024/03/29 6:26:22 pm CET,492,HNN ,27,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,No,,,Couple ,Yes,Rumors ,,,,,
+2024/03/29 9:11:26 am CET,419,HRN ,28,Trader,Married,Christian,Laka,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,,Rumors ,,,,,
+2024/03/29 11:12:33 am CET,430,HNN ,49,Housewife,Married,Christian,Laka,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Rumors ,,,,,
+2024/03/29 11:17:23 am CET,431,HRN,49,Farmer,Married,Christian,Mundang,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Rumors ,,,,,
+2024/03/29 11:18:20 am CET,432,HRN,49,Housewife,Divorced,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Rumors ,,,,,
+2024/03/29 11:52:15 am CET,444,HRN ,41,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,Wife,Yes,Rumors ,,,,,
+2024/03/29 3:24:56 pm CET,456,HNN,41,Housewife,Married,Christian,Bamileke,Secondary,None,>5,>5,0 - 2years,No,,,Wife,No,Rumors ,,,,,
+2024/03/29 6:31:59 pm CET,496,HNN ,41,Farmer,Widow,Christian,Baya,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Rumors ,,,,,
+2024/03/29 7:04:40 pm CET,506,HRN,25,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,No,,,No one ,,Rumors ,,,,,
+2024/03/29 7:06:50 pm CET,508,HRN,28,Trader,Married,Christian,Mundang,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,Yes,Rumors ,Yes,,,,
+2024/03/29 7:27:13 pm CET,513,HRN,42,Housewife,Married,Christian,Laka,Primary,None,>5,>5,0 - 2years,No,,,Couple ,,Rumors ,Yes,,,,
+2024/03/29 7:40:42 pm CET,518,HRN,26,Farmer,Single,Christian,Laka,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,,Rumors ,,,,,
+2024/03/29 6:02:19 pm CET,489,HNN ,21,Student,Married,Christian,Mundang,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,Husband,Yes,Rumors ,,,,,
+2024/03/29 6:34:04 pm CET,497,HNN ,21,Housewife,Married,Muslim,Fulani,Secondary,None,(3-5),0 - 2,0 - 2years,No,,,No one,,Rumors ,,,,,
+2024/03/29 4:31:20 pm CET,478,HNN,19,Housewife,Married,Muslim,Fulani,Primary,None,>5,0 - 2,0 - 2years,No,,,Husband,,Rumors ,,,,,
+2024/03/29 6:00:12 pm CET,488,HNN ,19,Housewife,Married,Muslim,Fulani,Primary,None,>5,0 - 2,0 - 2years,No,,,Husband,,Rumors ,Yes,,,,
+2024/03/26 11:13:34 am CET,269,HRN,27,Student,Married,Muslim,Fulani,Tertiary,None,<3,0 - 2,0 - 2years,No,,,,,Rumors ,Yes,No,No,No,Be patient with patients 
+2024/03/26 10:54:47 am CET,264,HRN,19,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,,No,Rumors ,Yes,No,No,No,Counseling 
+2024/03/23 2:08:33 pm CET,54,HNN,28,Student,Married,Christian,Laka,Secondary,None,(3-5),(3-5),3 - 5years,No,,,Husband,Yes,Rumors on difficulty to conceive after removal,Yes,No,No,No,Give details on methods 
+2024/03/23 2:25:11 pm CET,61,HNN,30,Secretary ,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,No,,,Wife,No,Rumors on difficulty to conceive after utilization and side effects ,,No,No,No,Reassure women and limit rumors on side effects 
+2024/03/23 2:13:20 pm CET,56,HNN,35,Housewife,Married,Muslim,Fulani,Primary,"<30,000fcfa",>5,(3-5),0 - 2years,No,,,Wife,No,Rumors on how it affects the ability to conceive after removal ,Yes,No,No,No,"Counseling on side effects e.g bleeding, weight gain"
+2024/03/23 9:51:39 pm CET,128,HNN,38,Housewife,Single,Christian,Bassa,Primary,"50,000-100,000fcfa",>5,>5,3 - 5years,No,,,Wife,Yes,Rumors on infertility ,Yes,,,,Health campaigns 
+2024/03/25 7:19:33 pm CET,233,HRN,31,Teacher,Single,Christian,Toupouri,Tertiary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,No,,,Wife,No,Rumors on infertility ,Yes,,,,Talks
+2024/03/29 11:27:03 am CET,434,HRN,46,Trader,Married,Christian,Toupouri,Primary,None,>5,>5,0 - 2years,No,,,Wife,No,Rumours,,,,,
+2024/03/29 3:22:48 pm CET,454,HNN,41,Farmer,Married,Christian,Laka,Primary,"<30,000fcfa",>5,>5,0 - 2years,No,,,Wife,No,Rumours ,,,,,
+2024/03/24 11:58:16 am CET,182,HRN,28,Trader,Married,Christian,Bassa,Primary,"<30,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,No,No,Yes,No,Talks 
+2024/03/25 4:38:37 pm CET,202,HRN,35,Housewife,Married,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,,Yes,No,No,Health campaigns 
+2024/03/25 4:53:37 pm CET,208,HRN,29,Housewife,Married,Christian,Baya,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,No,Yes,No,No,Health campaigns 
+2024/03/25 5:12:22 pm CET,211,HNN,38,Nurse,Married,Muslim,Fulani,Tertiary,">100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,No,No,No,No,Include partners/husbands in counseling 
+2024/03/25 7:46:10 pm CET,244,HRN,34,Nurse,Married,Christian,Laka,Secondary,"<30,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,,Yes,No,No,Explain in details the methods 
+2024/03/26 10:03:10 am CET,252,HNN,40,Housewife,Married,Muslim,Fulani,Tertiary,">100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Wife,Yes,,No,Yes,No,Yes,Have group discussions at least once a month on contraceptives 
+2024/03/27 4:52:23 am CET,298,HRN,30,Teacher,Divorced,Muslim,Fulani,Primary,"50,000-100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Wife,No,,,No,Yes,No,
+2024/03/23 9:18:48 am CET,2,HRN,35,Housewife,Married,Christian,Toupouri,Tertiary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Husband and wife,Yes,,Yes,Yes,Yes,No,Health campaigns should be organized 
+2024/03/23 11:39:57 am CET,44,HRN,34,Nurse,Married,Christian,Toupouri,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,No,Yes,No,No,Give details on methods 
+2024/03/23 2:30:44 pm CET,64,HNN,30,Nurse,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,Yes,No,No,No,Talks 
+2024/03/24 7:00:41 am CET,141,HNN,27,Nurse,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Condoms,Couple ,Yes,,,No,No,No,Health campaigns 
+2024/03/25 4:56:06 pm CET,209,HNN,31,Nurse,Married,Christian,Mundang,Tertiary,"30,000- <50,000fcfa",<3,(3-5),3 - 5years,Yes,Modern,Condoms,Wife,Yes,,No,Yes,No,No,Give pros and cons of contraceptives 
+2024/03/23 9:42:34 pm CET,123,HNN,35,Housewife,Widow,Muslim,Fulani,None,"<30,000fcfa",>5,(3-5),3 - 5years,Yes,Modern,Condoms,Husband,Yes,,Yes,Yes,No,No,Involve husbands 
+2024/03/24 7:37:25 am CET,163,HRN,30,Teacher,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",>5,(3-5),3 - 5years,Yes,Modern,Condoms,Wife,No,,,No,Yes,No,Counseling 
+2024/03/25 5:21:30 pm CET,215,HNN,35,Housewife,Married,Christian,Bamileke,Secondary,">100,000fcfa",>5,(3-5),3 - 5years,Yes,Modern,Condoms,Husband,Yes,,,Yes,No,No,Talks 
+2024/03/26 10:26:15 am CET,261,HRN,44,Housewife,Married,Muslim,Bassa,None,"50,000-100,000fcfa",>5,(3-5),3 - 5years,Yes,Modern,Implants,Husband,Yes,,No,No,Yes,No,Explain in details 
+2024/03/23 9:45:51 am CET,8,HRN,19,Housewife,Married,Christian,Baya,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Implants,Couple,Yes,,No,Yes,No,No,Health campaigns 
+2024/03/23 9:52:38 am CET,11,HRN,38,Nurse,Married,Muslim,Fulani,Tertiary,">100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Involve husbands in contraceptive decision making 
+2024/03/23 10:00:01 am CET,15,HRN,35,Housewife,Married,Christian,Bamileke,Secondary,">100,000fcfa",(3-5),(3-5),3 - 5years,Yes,Modern,Implants,Husband,Yes,,No,Yes,No,No,Counseling 
+2024/03/23 10:12:40 am CET,20,HRN,32,Housewife,Married,Christian,Toupouri,Secondary,">100,000fcfa",(3-5),>5,3 - 5years,Yes,Modern,Implants,Husband,Yes,,No,No,No,Yes,Health campaigns 
+2024/03/23 9:25:16 am CET,3,HRN,40,Housewife,Married,Christian,Laka,Secondary,"<30,000fcfa",>5,>5,3 - 5years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,No,Make contraceptives free
+2024/03/25 4:40:47 pm CET,203,HRN,40,Housewife,Married,Christian,Baya,Primary,"<30,000fcfa",>5,>5,3 - 5years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,No,Make contraceptives free 
+2024/03/29 3:28:36 pm CET,459,HNN ,46,Teacher,Divorced,Christian,Bamoun ,Secondary,"50,000-100,000fcfa",>5,>5,3 - 5years,Yes,Modern,Implants,Wife,No,,No,No,No,No,
+2024/03/29 6:44:49 pm CET,505,HRN,40,Housewife,Married,Christian,Mundang,Primary,"<30,000fcfa",>5,>5,3 - 5years,Yes,Modern,Implants,Husband,Yes,,No,No,Yes,No,
+2024/03/26 10:19:57 am CET,258,HNN,30,Student,Married,Muslim,Fulani,Tertiary,">100,000fcfa",(3-5),0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Explain in details the methods 
+2024/03/28 5:41:06 pm CET,124,HNN,28,Teacher,Divorced,Christian,Bassa,Secondary,"50,000-100,000fcfa",(3-5),0 - 2,3 - 5years,Yes,Modern,Implants,Wife,No,,No,Yes,No,No,
+2024/03/24 7:08:05 am CET,146,HRN,32,Housewife,Widow,Muslim,Fulani,None,"<30,000fcfa",(3-5),0 - 2,3 - 5years,Yes,Modern,Implants,Wife,Yes,,,Yes,No,No,Counsel more on side effects 
+2024/03/23 9:42:36 am CET,7,HRN,23,Student,Married,Christian,Laka,Secondary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Health campaigns 
+2024/03/23 9:47:51 am CET,9,HRN,31,Nurse,Married,Christian,Mundang,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Wife,Yes,,No,Yes,No,No,Explain in details the types of modern contraceptives and side effects 
+2024/03/23 9:50:00 am CET,10,HRN,32,Housewife,Married,Muslim,Fulani,None,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple,Yes,,,Yes,No,No,Health campaigns 
+2024/03/23 10:03:29 am CET,16,HRN,26,Student,Married,Muslim,Fulani,Tertiary,"50,000-100,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Wife,Yes,,Yes,No,No,No,Counseling 
+2024/03/23 11:31:51 am CET,40,HRN,24,Student,Married,Christian,Bamileke,Tertiary,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Campaigns 
+2024/03/23 11:51:18 am CET,50,HRN,29,Housewife,Married,Muslim,Baya,Primary,None,<3,0 - 2,3 - 5years,Yes,Modern,Implants,Husband,Yes,,Maybe ,No,No,No,Descente dans les maisons pour sensibiliser 
+2024/03/23 2:02:54 pm CET,51,HRN,27,Trader,Single,Christian,Nanga,Secondary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Wife,Yes,,Yes,Yes,No,No,"Raise awareness through TV,Talks"
+2024/03/23 3:22:38 pm CET,85,HRN,33,Housewife,Married,Christian,Bamileke,Secondary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Wife,Yes,,No,Yes,No,No,Campaigns 
+2024/03/23 9:37:08 pm CET,120,HNN,19,Student,Married,Muslim,Fulani,Tertiary,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Explain advantages of contraceptives 
+2024/03/24 6:47:54 am CET,133,HNN,24,Student,Single,Christian,Ewondo,Tertiary,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,No,Counseling 
+2024/03/25 4:58:13 pm CET,210,HNN,32,Housewife,Married,Muslim,Toupouri,None,"<30,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,No,Talks
+2024/03/25 7:24:17 pm CET,235,HNN,31,Teacher,Married,Christian,Massa,Tertiary,">100,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,Yes,No,Yes,No,Educational talks 
+2024/03/25 8:21:23 pm CET,250,HNN,29,Housewife,Married,Muslim,Baya,Primary,None,<3,0 - 2,3 - 5years,Yes,Modern,Implants,Husband,Yes,,No,Yes,No,No,Descente dans les maisons et parlé au partenaire 
+2024/03/26 10:57:53 am CET,266,HRN,23,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Husband,Yes,,Yes,No,No,No,Explain in details the side effects 
+2024/03/27 4:50:40 am CET,297,HNN,28,Doctor ,Single,Christian,Ewondo ,Tertiary,">100,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Wife,,,,No,Yes,No,Health campaigns 
+2024/03/25 4:50:15 pm CET,207,HNN,23,Nurse,Married,Christian,Laka,Secondary,"30,000- <50,000fcfa",<3,0 - 2,3 - 5years,Yes,Modern,Implants,Couple ,Yes,,No,Yes,No,No,Talks and campaigns 
+2024/03/25 5:14:12 pm CET,212,HNN,30,Nurse,Married,Muslim,Mundang,Secondary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Couple ,Yes,,Yes,Yes,No,No,Health campaigns and counseling 
+2024/03/26 10:21:45 am CET,259,HNN,29,Seamstress ,Married,Muslim,Toupouri,Primary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Couple ,Yes,,No,No,Yes,No,Explain in details the methods and their side effects 
+2024/03/26 11:05:56 am CET,268,HRN,38,Housewife,Married,Muslim,Kotoko ,Primary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,Yes,Campaigns 
+2024/03/26 11:28:21 am CET,272,HRN,30,Trader,Married,Christian,Baya,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,Yes,,No,Yes,No,No,Patients should have freedom of choice 
+2024/03/26 11:40:16 am CET,280,HNN,35,Teacher,Divorced,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,No,,,Yes,No,No,Follow ups and counseling 
+2024/03/29 6:54:16 am CET,371,HNN,21,Student,Married,Muslim,Fulani,Secondary,None,(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,No,,No,No,No,No,
+2024/03/29 8:02:25 am CET,395,HNN,28,Nurse,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,No,,No,No,No,No,
+2024/03/23 11:26:29 am CET,37,HRN,37,Teacher,Married,Christian,Toupouri,Tertiary,">100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,Yes,,Maybe,Yes,No,No,Organise campaigns to raise awareness 
+2024/03/23 11:49:13 am CET,49,HRN,23,Housewife,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Husband,Yes,,I don't know ,Yes,Yes,Yes,Explain side effects and types of contraceptives 
+2024/03/23 2:05:01 pm CET,52,HNN,26,Student,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,Yes,,Yes,Yes,No,No,Health campaigns 
+2024/03/23 2:17:55 pm CET,58,HNN,37,Entrepreneur,Married,Christian,Bassa,Tertiary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Husband,Yes,,Maybe,Yes,No,No,Counseling on side effects 
+2024/03/23 2:22:15 pm CET,60,HNN,37,Trader,Married,Christian,Nanga ,Secondary,"50,000-100,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Couple ,Yes,,Yes,Yes,No,No,Be more explicit when explaining methods 
+2024/03/23 3:35:32 pm CET,92,HNN,27,Housewife,Married,Muslim,Fulani,None,None,(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Wife,No,,No,No,No,No,Detailed counseling 
+2024/03/23 3:36:55 pm CET,93,HNN,32,Trader,Married,Christian,Mundang,Secondary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Couple ,Yes,,No,No,No,No,Detailed counseling 
+2024/03/24 7:06:34 am CET,145,HRN,23,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Implants,Husband,Yes,,,Yes,No,No,Detailed counseling on side effects 
+2024/03/23 9:38:53 pm CET,121,HNN,23,Seamstress ,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",>5,(3-5),0 - 2years,Yes,Modern,Implants,Wife,No,,,No,Yes,No,Explain side effects 
+2024/03/24 7:43:27 am CET,167,HRN,27,Farmer,Divorced,Christian,Bamileke,Primary,"30,000- <50,000fcfa",>5,(3-5),0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,No,No,No,Counseling 
+2024/03/23 9:54:16 am CET,12,HRN,30,Nurse,Married,Muslim,Toupouri,Secondary,"<30,000fcfa",(3-5),(3-5),0 - 2years,Yes,Modern,Injectables(Depo-provera),Couple ,Yes,,No,Yes,No,No,"Counseling, health campaigns "
+2024/03/23 9:39:50 am CET,6,HRN,35,Trader,Divorced,Muslim,Laka,None,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,Yes,Yes,No,Make contraceptives free 
+2024/03/23 11:35:28 am CET,42,HRN,32,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,No,No,No,No,Descente dans les ménages pour sensibiliser les ménages 
+2024/03/23 11:45:46 am CET,47,HRN,33,Pharmacist ,Married,Muslim,Fulani,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,Yes,Yes,No,No,Make contraceptive readily available 
+2024/03/23 3:32:17 pm CET,90,HNN,45,Trader,Widow,Christian,Mundang,,"<30,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,No,Yes,No,No,Make contraceptives free 
+2024/03/23 8:37:28 pm CET,105,HNN,38,Nurse,Widow,Muslim,Kotoko,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,No,No,No,No,Health campaigns 
+2024/03/23 9:44:06 pm CET,125,HNN,36,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,No,Yes,No,No,Counseling 
+2024/03/23 9:48:37 pm CET,126,HNN,40,Farmer,Married,Christian,Laka,None,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,,Yes,No,No,Confidentiality 
+2024/03/24 6:51:16 am CET,135,HNN,28,Student,Married,Christian,Baya,Primary,None,>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,,No,No,No,Health campaigns 
+2024/03/24 7:39:22 am CET,164,HRN,28,Doctor ,Single,Christian,Bassa,Tertiary,">100,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,No,Yes,No,Counseling 
+2024/03/24 12:08:13 pm CET,188,HRN,26,Teacher,Married,Christian,Bamileke,Tertiary,">100,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Couple ,No,,,No,Yes,No,Talks 
+2024/03/25 4:47:17 pm CET,206,HNN,35,Trader,Divorced,Muslim,Laka,None,"<30,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,Yes,Yes,No,Make contraceptives free 
+2024/03/25 5:29:47 pm CET,220,HNN,32,Housewife,Married,Christian,Toupouri,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,,No,Yes,No,Talks
+2024/03/25 7:41:52 pm CET,242,HRN ,32,Housewife,Widow,Muslim,Fulani,None,None,>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,No,No,Yes,Create more health centers in rural areas to distribute contraceptives 
+2024/03/25 7:56:22 pm CET,247,HRN,33,Nurse,Married,Muslim,Fulani,Secondary,"50,000-100,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,No,No,Yes,No,Counseling 
+2024/03/25 8:19:31 pm CET,249,HNN,33,Housewife,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,No,Yes,Yes,Yes,Personnels should be patient to explain the methods 
+2024/03/26 10:05:05 am CET,253,HNN,38,Teacher,Married,Christian,Bassa,Tertiary,"<30,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,No,Yes,No,No,Have group chats on social platforms to discuss on methods 
+2024/03/26 10:16:05 am CET,256,HNN,39,Housewife,Married,Muslim,Bafia,None,None,>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,No,Yes,No,No,Counseling 
+2024/03/26 10:24:10 am CET,260,HRN,42,Housewife,Married,Muslim,Fulani,Primary,"<30,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,No,No,No,No,Good counseling 
+2024/03/26 11:04:35 am CET,267,HRN,35,Housewife,Married,Muslim,Fulani,None,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,,No,No,No,Give details on side effects 
+2024/03/26 11:41:58 am CET,281,HNN,39,Housewife,Married,Muslim,Fulani,None,None,>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,Yes,No,Yes,Rapprocher les unités de PF près des communauté rurale 
+2024/03/29 11:36:16 am CET,438,HRN,31,Trader,Single,Christian,Bassa,Secondary,"30,000- <50,000fcfa",>5,>5,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,No,No,Yes,No,
+2024/03/24 7:40:54 am CET,165,HRN,20,Trader,Single,Christian,Bassa,Primary,"30,000- <50,000fcfa",(3-5),0 - 2,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,,No,No,No,Health talks 
+2024/03/23 3:28:44 pm CET,88,HNN,26,Teacher,Married,Christian,Toupouri,Secondary,"30,000- <50,000fcfa",(3-5),0 - 2,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,No,Yes,No,No,Inform and communicate 
+2024/03/23 3:30:40 pm CET,89,HNN,25,Housewife,Married,Muslim,Fulani,None,None,(3-5),0 - 2,0 - 2years,Yes,Modern,Injectables(Depo-provera),Husband,Yes,,,Yes,No,No,Detailed counseling 
+2024/03/23 9:37:32 am CET,5,HRN,25,Student,Single,Muslim,Fulani,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,Yes,,No,Yes,No,No,Organise community talks
+2024/03/23 10:08:43 am CET,18,HRN,23,Housewife,Single,Christian,Bamileke,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Injectables(Depo-provera),Wife,No,,No,Yes,No,,Involve husbands in decision making 
+2024/03/23 11:22:38 am CET,35,HRN,31,Teacher,Married,Christian,Bassa,Tertiary,">100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Couple ,Yes,,Yes,Yes,No,Yes,Campaigns 
+2024/03/23 11:30:02 am CET,39,HRN,26,Engineer,Married,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Couple ,Yes,,No,No,No,No,Give details on methods 
+2024/03/23 11:41:53 am CET,45,HRN,23,Nurse,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Couple ,Yes,,No,Yes,No,No,Make contraceptives readily available 
+2024/03/23 11:43:20 am CET,46,HRN,25,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Husband,Yes,,No,Yes,No,No,Give details on side effects 
+2024/03/23 3:26:58 pm CET,87,HRN,37,Doctor ,Single,Christian,Ewondo,Tertiary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Wife,No,,Yes,No,No,Yes,Faire les descentes en communautés 
+2024/03/23 3:38:21 pm CET,94,HNN,27,Housewife,Married,Muslim,Fulani,Primary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Husband,Yes,,,No,Yes,No,Detailed information 
+2024/03/23 3:40:07 pm CET,95,HNN,32,Housewife,Single,Muslim,Baya,Primary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Wife,No,,,Yes,No,No,Counseling 
+2024/03/23 3:43:32 pm CET,97,HNN,26,Nurse,Single,Christian,Bamileke,Tertiary,">100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,IUDs,Couple ,Yes,,,Yes,No,No,Involve men in health campaigns 
+2024/03/23 8:27:07 pm CET,101,HNN,23,Student,Single,Christian,Laka,Secondary,None,<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,No,Yes,Yes,Yes,Detailed counseling 
+2024/03/23 8:52:47 pm CET,110,HNN,29,Student,Married,Christian,Bassa,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,Yes,No,No,No,Reassure women and give details on methods 
+2024/03/23 9:31:02 pm CET,117,HNN,22,Student,Single,Christian,Baya,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Husband,Yes,,Yes,Yes,No,No,Counseling 
+2024/03/23 9:33:16 pm CET,118,HNN,27,Nurse,Single,Christian,Mundang,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,,No,No,No,Counseling 
+2024/03/23 9:35:07 pm CET,119,HNN ,23,Nurse,Single,Christian,Bamileke,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,Yes,Yes,No,No,Health campaigns 
+2024/03/24 6:44:02 am CET,131,HNN,32,Nurse,Single,Christian,Mundang,Secondary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,,No,Yes,Yes,Give the pros and cons of contraceptives 
+2024/03/25 4:44:28 pm CET,205,HRN,25,Student,Single,Christian,Laka,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,No,Yes,No,No,Health campaigns 
+2024/03/25 7:34:46 pm CET,239,HNN,27,Entrepreneur,Married,Christian,Bamileke,Tertiary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Couple ,Yes,,No,No,Yes,No,Follow ups when putting a patient on contraceptive 
+2024/03/25 7:51:02 pm CET,245,HRN,23,Nurse,Married,Muslim,Fulani,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Couple ,Yes,,Yes,No,No,No,Make contraceptives available 
+2024/03/25 7:52:44 pm CET,246,HNN,17,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,Yes,Modern,Pills,Husband,Yes,,,Yes,No,No,Elaborate more on side effects 
+2024/03/26 10:01:06 am CET,251,HNN,20,Student,Single,Christian,Bamileke,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Husband,Yes,,No,Yes,Yes,No,Allow patient to make choices 
+2024/03/26 11:14:55 am CET,270,HNN,25,Seamstress ,Single,Christian,Bassa,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,,Yes,No,No,Detailed explanations of methods 
+2024/03/26 11:37:33 am CET,278,HRN,28,Housewife,Married,Christian,Bassa,None,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Couple ,Yes,,Yes,No,No,No,Counseling 
+2024/03/26 11:36:20 am CET,277,HNN,23,Teacher,Single,Christian,Mundang,Secondary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,No,Yes,No,No,Counseling 
+2024/03/26 11:31:20 am CET,274,HNN,23,Student,Single,Christian,Laka,Tertiary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,Yes,,,Yes,No,No,Be more explicit 
+2024/03/26 11:38:51 am CET,279,HRN,22,Student,Single,Muslim,Fulani,Secondary,None,<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,,Yes,No,No,Explain in details the methods 
+2024/03/23 2:33:06 pm CET,65,HNN,27,Teacher,Married,Christian,Bayangi,Secondary,"50,000-100,000fcfa",<3,0 - 2,>5years,Yes,Modern,Pills,Wife,No,,,No,Yes,No,Counseling 
+2024/03/23 3:24:51 pm CET,86,HRN,40,Housewife,Married,Christian,Laka,Primary,None,<3,0 - 2,>5years,Yes,Modern,Pills,Wife,Yes,,No,Yes,No,No,Involve the partner 
+2024/03/26 10:08:38 am CET,255,HNN,29,Nurse,Married,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,>5years,Yes,Modern,Pills,Wife,Yes,,Yes,Yes,No,No,Follow ups and counseling 
+2024/03/28 5:40:03 pm CET,81,HNN,30,Nurse,Married,Christian,Bamileke,Secondary,"50,000-100,000fcfa",<3,0 - 2,>5years,Yes,Modern,Pills,Couple ,Yes,,No,No,Yes,No,
+2024/03/29 8:03:16 am CET,396,HNN,28,Teacher,Divorced,Christian,Bassa,Secondary,"30,000- <50,000fcfa",<3,0 - 2,>5years,Yes,Modern,Pills,Wife,No,,No,No,No,No,
+2024/03/23 8:28:54 pm CET,102,HNN,20,Student,Single,Christian,Bafang,Tertiary,None,<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,Yes,No,Yes,No,Campaigns 
+2024/03/23 8:32:04 pm CET,103,HNN,24,Student,Single,Christian,Mundang,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Husband,Yes,,No,Yes,No,No,Health campaigns 
+2024/03/23 8:41:02 pm CET,106,HNN,22,Entrepreneur,Single,Muslim,Fulani,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,No,Yes,No,Yes,Make contraceptives available at pharmacies 
+2024/03/25 5:26:01 pm CET,218,HNN,23,Student,Single,Christian,Bamileke,Secondary,"<30,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,,Yes,No,No,Talks
+2024/03/29 6:38:47 pm CET,502,HRN,29,Student,Single,Christian,Bassa,Tertiary,"30,000- <50,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,Yes,No,No,No,
+2024/03/29 6:47:32 pm CET,231,HRN,30,Entrepreneur,Single,Christian,Toupouri,Tertiary,"50,000-100,000fcfa",<3,0 - 2,0 - 2years,Yes,Modern,Pills,Wife,No,,Yes,No,No,No,Counseling 
+2024/03/29 3:26:01 pm CET,457,HNN,41,Nurse,Married,Christian,Bassa,Secondary,"50,000-100,000fcfa",>5,>5,3 - 5years,Yes,Modern,Pills,Couple ,Yes,,,No,No,No,
+2024/03/28 4:17:05 pm CET,308,HRN,17,Housewife,Married,Muslim,Fulani,None,None,>5,(3-5),0 - 2years,Yes,Modern,Pills,Husband,,,,,,,
+2024/03/23 2:06:31 pm CET,53,HNN,25,Housewife,Married,Muslim,Fulani,None,None,<3,0 - 2,0 - 2years,No,,,Wife,Yes,,Yes,Yes,No,No,Counseling 
